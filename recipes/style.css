@@ -1,3 +1,12 @@
-html {
+* {
     background-color: #657c88;
+    color: white;
+}
+
+img {
+    border-radius: 25%;
+}
+
+li {
+    list-style-type: none;
 }
