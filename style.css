@@ -6,3 +6,7 @@
 img {
     border-radius: 25%;
 }
+
+li {
+    list-style-type: none;
+}
