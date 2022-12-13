@@ -4,7 +4,8 @@
 }
 
 img {
-    border-radius: 25%;
+    height: auto;
+    width: 300;
 }
 
 li {
